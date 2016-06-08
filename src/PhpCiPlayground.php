@@ -42,6 +42,6 @@ class PhpCiPlayground
      */
     public function getFoo()
     {
-        return 'foo';
+        return 'This is just a test of Continuous integration';
     }
 }
